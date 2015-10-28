@@ -19,3 +19,6 @@ which will be used for path detection.
 once path is detected - serial communication through bluetooth will be send to the bot to toggle the motor driver IC 
 and move the bot as per the path detected
                                           -Kartik Nighania
+
+image detecting triangles and finding their coordinates in arena
+http://i63.tinypic.com/1z5t6vp.png
