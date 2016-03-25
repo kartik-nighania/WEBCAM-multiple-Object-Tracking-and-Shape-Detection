@@ -1,6 +1,6 @@
 #multiple-Object-Tracking-with-coordinates-finding-and-shape-detection
 objective is to make a complete autonomous robot that can
-avoid obstacles and find path from images provided by webcam of the arena using OpenCV library of Computer Vision 
+avoid obstacles and find its path from images provided by overhead webcam of the arena using OpenCV library of Computer Vision.
 
 the code posted here can-
 
@@ -19,6 +19,3 @@ which will be used for path detection.
 once path is detected - serial communication through bluetooth will be send to the bot to toggle the motor driver IC 
 and move the bot as per the path detected
                                           -Kartik Nighania
-
-image detecting triangles and finding their coordinates in arena
-http://i63.tinypic.com/1z5t6vp.png
