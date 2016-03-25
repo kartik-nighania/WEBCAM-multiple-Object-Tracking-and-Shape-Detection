@@ -1,6 +1,6 @@
 #multiple-Object-Tracking-with-coordinates-finding-and-shape-detection
-using OpenCV library of Computer Vision objective is to make a complete autonomous robot that can
-avoid obstacles and find path from images provided by webcam of the arena
+objective is to make a complete autonomous robot that can
+avoid obstacles and find path from images provided by webcam of the arena using OpenCV library of Computer Vision 
 
 the code posted here can-
 
